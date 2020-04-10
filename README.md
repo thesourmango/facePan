@@ -33,7 +33,7 @@ python 3.6 and 3.7
 opencv 3.4.6 and 4.1.0
 cascade files
 before running scripts, please make sure you have installed opencv-contrib-python and opencv-python by running
-## pip install opencv-contrib-python && pip install opencv-python
+#### pip install opencv-contrib-python && pip install opencv-python
 
 ## comments
 Thank you for your support, I lack time and skills to finish this PoC, I really appreciate all the help I can get.
